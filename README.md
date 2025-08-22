@@ -10,6 +10,9 @@ Tasa de desempleo.
 
 Ventas de casas.
 
+
+
+
 📂 Archivos del repositorio
 
 my_own_rmap.py → Script principal en Python que genera el mapa de recurrencia.
