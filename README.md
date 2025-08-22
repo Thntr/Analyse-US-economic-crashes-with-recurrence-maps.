@@ -18,7 +18,7 @@ yield_data_limited.csv → Datos de la diferencia entre el bono a 2 y 10 años.
 
 unemployment_data_limited.csv → Datos de desempleo en EE.UU.
 
-home_sales_data_limited.csv → Datos de ventas de casas en EE.UU.
+home_sales_data_limited.csv → Datos de ventas de casas en EE.UU. <br><br>
 
 ⚙️ Requisitos
 
@@ -28,4 +28,14 @@ Python 3.8+
 
 Las siguientes librerías de Python:
 
-<pre> pip install numpy matplotlib pandas pdist squareform </pre>
+<pre> pip install numpy matplotlib pandas pdist squareform </pre> <br><br>
+
+🚀 Cómo usarlo
+
+Descarga los 4 archivos (script.py + los tres .csv).
+
+Colócalos en la misma carpeta.
+
+Abre una terminal en esa carpeta y ejecuta:
+
+<pre> python my_own_rmap.py </pre>
