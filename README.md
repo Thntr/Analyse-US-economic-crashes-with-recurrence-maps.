@@ -10,7 +10,7 @@ Tasa de desempleo.
 
 Ventas de casas.<br><br>
 
-📂 Archivos del repositorio
+📂 **Archivos del repositorio**
 
 my_own_rmap.py → Script principal en Python que genera el mapa de recurrencia.
 
@@ -20,7 +20,7 @@ unemployment_data_limited.csv → Datos de desempleo en EE.UU.
 
 home_sales_data_limited.csv → Datos de ventas de casas en EE.UU. <br><br>
 
-⚙️ Requisitos
+⚙️ **Requisitos**
 
 Antes de ejecutar el script, asegúrate de tener instalado:
 
@@ -30,7 +30,7 @@ Las siguientes librerías de Python:
 
 <pre> pip install numpy matplotlib pandas pdist squareform </pre> <br><br>
 
-🚀 Cómo usarlo
+🚀 **Cómo usarlo**
 
 Descarga los 4 archivos (script.py + los tres .csv).
 
@@ -39,3 +39,9 @@ Colócalos en la misma carpeta.
 Abre una terminal en esa carpeta y ejecuta:
 
 <pre> python my_own_rmap.py </pre>
+
+📊 **Mapas de Recurrencia con Datos Económicos de EE.UU.**
+
+En el pdf anexo en este repositorio se interpretan los resultados del mapa de recurrencia de los datos reales que se encuentran en los tres archivos .csv.
+
+Los archivos .csv contemplan datos de junio de 1976 a septiembre de 2024, las referencias y sitios web oficiales de dónde se extraen los datos se encuentran en la sección **fuente de los datos** al final del pdf.
