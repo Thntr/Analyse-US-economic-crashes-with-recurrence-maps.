@@ -28,4 +28,4 @@ Python 3.8+
 
 Las siguientes librerías de Python:
 
-<pre> ```bash pip install numpy matplotlib pandas pdist squareform ``` </pre>
+<pre> pip install numpy matplotlib pandas pdist squareform </pre>
